@@ -5,9 +5,8 @@ const Header = () => {
   const menuItems = [
     { label: "HOME", path: "/" },
     { label: "ABOUT US", path: "/about" },
-    { label: "HOUSING", path: "/housing" },
-    { label: "NON-HOUSING", path: "/non-housing" },
-    { label: "DEPOSIT SCHEMES", path: "/deposits" },
+    { label: "SECURED LOAN", path: "/housing" },
+    { label: "UNSECURED LOAN", path: "/non-housing" },
     { label: "CAREER", path: "/career" },
     { label: "INVESTOR", path: "/investor" },
   ];
@@ -25,7 +24,7 @@ const Header = () => {
           </div>
           <div className="flex items-center space-x-4 text-sm">
             <div className="flex items-center text-gray-600">
-              <span className="mr-2">care@edelweisslife.in</span>
+              <span className="mr-2">Loan@edelweiss.in</span>
               <span className="mx-2">|</span>
               <span>1800-123-4567</span>
             </div>

@@ -94,7 +94,7 @@ const HeroSection = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <div className="w-[70%]">
           <h1 className="text-6xl font-bold text-white mb-6">
-            Welcome to Home Finance
+            Welcome to SME Finance
           </h1>
           <p className="text-2xl text-white/90">
             Your trusted partner in home financing solutions
